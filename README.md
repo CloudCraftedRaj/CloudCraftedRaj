@@ -72,10 +72,11 @@ I strongly believe in **learning by building real-world systems and documenting 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CloudCraftedRaj&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CloudCraftedRaj&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CloudCraftedRaj&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CloudCraftedRaj&theme=tokyonight" />
 </p>
 
 ---
