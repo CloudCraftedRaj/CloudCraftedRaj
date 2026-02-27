@@ -67,6 +67,12 @@ I believe in learning by building real-world systems and documenting the journey
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge)
 
+## 📊 GitHub Stats
+
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudCraftedRaj&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudCraftedRaj&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📂 Current Focus
