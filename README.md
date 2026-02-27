@@ -1,53 +1,53 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
 # 👋 Hi, I'm Raj (CloudCraftedRaj)
 
-🚀 Cloud | DevOps | Data Engineering | MLOps | AI Systems Builder
+🚀 **Cloud • DevOps • Data • MLOps • AI Platform Engineer**
 
 ---
 
 ## ☁️ About Me
 
-I am a Cloud and Data Engineering professional focused on building scalable, secure, and automated platforms using Microsoft Azure ecosystem.
+I am a Cloud and Data Engineering professional focused on designing and building scalable, secure, and automated platforms using the Microsoft Azure ecosystem.
 
-My work combines:
+My work combines cloud infrastructure, DevOps automation, modern data platforms, and AI-driven systems.
 
-- Infrastructure as Code (Terraform)
-- Cloud & DevOps Automation
-- Modern Data Engineering
-- MLOps Platforms
-- AI & LLM-based Systems
-
-I believe in learning by building real-world systems and documenting the journey publicly.
+I strongly believe in **learning by building real-world systems and documenting the journey publicly**.
 
 ---
 
 ## 🛠 Core Skills
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 - Microsoft Azure
-- Terraform
+- Terraform (Infrastructure as Code)
 - GitHub Actions
 - CI/CD Pipelines
 - Infrastructure Automation
 
-### Data Engineering
+### 📊 Data Engineering
 - Azure Data Factory
 - Azure SQL Database
 - ADLS Gen2
 - Databricks
 - Snowflake
 
-### Programming
+### 💻 Programming
 - Python
 - SQL
-- Automation Scripts
+- Automation & Scripting
 
-### AI / MLOps
+### 🤖 AI / MLOps
 - Machine Learning Pipelines
 - LLM Applications
 - AI Agents
 - Model Deployment Concepts
 
-## 🛠 Tech Stack
+---
+
+## 🧰 Tech Stack
 
 ### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -65,13 +65,18 @@ I believe in learning by building real-world systems and documenting the journey
 
 ### 🤖 AI / MLOps
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge)
+
+---
 
 ## 📊 GitHub Stats
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudCraftedRaj&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CloudCraftedRaj&show_icons=true&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudCraftedRaj&layout=compact&theme=tokyonight"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudCraftedRaj&layout=compact&theme=tokyonight)
+---
 
 ## 🔥 Contribution Activity
 
@@ -79,21 +84,38 @@ I believe in learning by building real-world systems and documenting the journey
 
 ---
 
-## 📂 Current Focus
+## 📂 Featured Engineering Areas
+
+✅ Cloud Infrastructure Automation  
+✅ DevOps & CI/CD Platforms  
+✅ Modern Data Engineering Pipelines  
+✅ Databricks & Snowflake Workloads  
+✅ MLOps & Model Deployment  
+✅ AI & LLM Automation Systems  
+
+---
+
+## 🎯 Current Focus
 
 - Building Azure Infrastructure using Terraform
 - Designing End-to-End Data Platforms
 - Automating DevOps Workflows
 - Developing AI & LLM Automation Systems
+- Platform Engineering Practices
 
 ---
 
 ## 📈 Learning in Public
 
-This GitHub documents my journey toward becoming a **Cloud + Data + AI Platform Engineer**.
+This GitHub documents my journey toward becoming a **Cloud + Data + AI Platform Engineer** by building production-style projects.
 
 ---
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/CloudCraftedRaj
+- GitHub: https://github.com/CloudCraftedRaj
+- LinkedIn: *(Coming Soon)*
+
+---
+
+⭐ *Always building. Always learning. Always automating.*
