@@ -73,6 +73,10 @@ I believe in learning by building real-world systems and documenting the journey
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudCraftedRaj&layout=compact&theme=tokyonight)
 
+## 🔥 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CloudCraftedRaj&theme=tokyo-night)
+
 ---
 
 ## 📂 Current Focus
